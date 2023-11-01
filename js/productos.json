@@ -1,0 +1,167 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "Prueba 1",
+        "imagen": "./img/abrigos/prueba.jpg",
+        "categoria": {
+            "nombre": "CATEGORIA 1 PRUEBA",
+            "id": "categoria1"
+        },
+        "precio": 1200.000
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Prueba 2",
+        "imagen": "./img/abrigos/prueba.jpg",
+        "categoria": {
+            "id": "categoria1"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Prueba 3",
+        "imagen": "./img/abrigos/prueba.jpg",
+        "categoria": {
+            "id": "categoria1"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Prueba 4",
+        "imagen": "./img/abrigos/prueba.jpg",
+        "categoria": {
+            "id": "categoria1"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Prueba 5",
+        "imagen": "./img/abrigos/prueba.jpg",
+        "categoria": {
+            "id": "categoria1"
+        },
+        "precio": 3300
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "Prueba 1",
+        "imagen": "./img/camisetas/prueba.jpg",
+        "categoria": {
+            "nombre": "CATEGORIA 2 PRUEBA",
+            "id": "categoria2"
+        },
+        "precio": 4500
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Prueba 2 ",
+        "imagen": "./img/camisetas/prueba.jpg",
+        "categoria": {
+            "id": "categoria2"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Prueba 3",
+        "imagen": "./img/camisetas/prueba.jpg",
+        "categoria": {
+            "id": "categoria2"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "Prueba 4",
+        "imagen": "./img/camisetas/prueba.jpg",
+        "categoria": {
+            "id": "categoria2"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "Prueba 5",
+        "imagen": "./img/camisetas/prueba.jpg",
+        "categoria": {
+            "id": "categoria2"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camiseta-06",
+        "titulo": "Prueba 6",
+        "imagen": "./img/camisetas/prueba.jpg",
+        "categoria": {
+            "id": "categoria2"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camiseta-07",
+        "titulo": "Prueba 7",
+        "imagen": "./img/camisetas/prueba.jpg",
+        "categoria": {
+            "id": "categoria2"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "Prueba 8",
+        "imagen": "./img/camisetas/prueba.jpg",
+        "categoria": {
+            "id": "categoria2"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Prueba 1",
+        "imagen": "./img/pantalones/prueba.jpg",
+        "categoria": {
+            "nombre": "CATEGORIA 3 PRUEBA",
+            "id": "categoria3"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Prueba 2",
+        "imagen": "./img/pantalones/prueba.jpg",
+        "categoria": {
+            "id": "categoria3"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Prueba 3",
+        "imagen": "./img/pantalones/prueba.jpg",
+        "categoria": {
+            "id": "categoria3"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Prueba 4",
+        "imagen": "./img/pantalones/prueba.jpg",
+        "categoria": {
+            "id": "categoria3"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Prueba 5",
+        "imagen": "./img/pantalones/prueba.jpg",
+        "categoria": {
+            "id": "categoria3"
+        },
+        "precio": 1000
+    }
+]
